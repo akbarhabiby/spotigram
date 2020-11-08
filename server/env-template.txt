@@ -1,0 +1,5 @@
+BASE64_ENCODED_DEV_SPOTIFY='< your encoded base64 client_id:client_secret >'
+SPOTIFY_GET_USER_TOP_TRACKS='< spotify api get user top tracks url >'
+SPOTIFY_GET_USER_PRIVATE='< spotify api get user data url >'
+SPOTIFY_API_TOKEN='< spotify api token url >'
+REDIRECT_URI='< your callback url >'
